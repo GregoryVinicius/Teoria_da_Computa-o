@@ -1,0 +1,11 @@
+Aula 01/03/2024
+
+Linguagens Regulares e Autômatos Finitos Determinísticos
+
+Conteudo
+  -Linguagens regulares
+  - AFD's
+  
+
+AFD's
+  Tem muito pouco memoria, a unica memoria dele é o estado atual dele, 
